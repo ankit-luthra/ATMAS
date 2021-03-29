@@ -6,9 +6,9 @@ This is a Windows form application. ATMAS(Attendance Management System) helps ma
 ## 2. Technology Overview
 This application will be built as a Windows Form Application using .NET Framework Version 4.7.2. <br> 
 Key Technologies that will be used inthis project include, but are not limited to, <br> 
-• MS SQL Server to manage the database
-• Entity Data to communicate with the database and use it as a bridge between Database and DataSet
-• Open Source UI Framework-Metro Framework for a modern ‘Metro’ UItheme
+- MS SQL Server to manage the database
+- Entity Data to communicate with the database and use it as a bridge between Database and DataSet
+- Open Source UI Framework-Metro Framework for a modern ‘Metro’ UItheme
 
 ## 3. Database Table and Connection
 All database tables will be stored using SQL Server Express DB. This application would be following Database-first approachfor the development. To connect and read the database the application would be using DataSet and further use TableAdapter for the connection.
